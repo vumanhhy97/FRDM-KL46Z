@@ -1,2 +1,1 @@
-# FRDM-KL46Z
-FRDM-KL46Z
+Nhóm 6
