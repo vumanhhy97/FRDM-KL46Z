@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\pdb0_ch1_ftm_freedom.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\pdb0_ch1_ftm_tower.ewp</path>
+  </project>
+   <batchBuild/>
+</workspace>
+
+

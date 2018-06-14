@@ -1,0 +1,27 @@
+ Volume in drive C is Primary
+ Volume Serial Number is 3C85-91D5
+
+ Directory of C:\Users\b01252\Documents\Freescale\L4K\software\kinetis_kl46_sc\build\iar
+
+07/24/2013  10:00 AM    <DIR>          .
+07/24/2013  10:00 AM    <DIR>          ..
+06/27/2013  05:25 PM    <DIR>          adc_demo
+06/26/2013  01:34 PM    <DIR>          config files
+07/11/2013  08:18 PM    <DIR>          FRDMKL46_Demo
+06/26/2013  01:34 PM               305 iar.h
+07/10/2013  10:01 AM    <DIR>          lcd_rtc_lowpower
+06/26/2013  01:34 PM    <DIR>          low_power_demo
+06/26/2013  01:34 PM         3,527,277 make_new_project.exe
+07/11/2013  03:48 PM    <DIR>          pdb0_ch1_ftm
+06/28/2013  02:06 PM    <DIR>          PIT_basic
+06/26/2013  01:34 PM    <DIR>          platinum
+06/26/2013  01:34 PM    <DIR>          spi_dma
+07/24/2013  10:00 AM                 0 temp.txt+
+07/18/2013  11:17 AM    <DIR>          TWRKL46_Demo
+06/26/2013  01:34 PM    <DIR>          TWRPI_sLCD
+07/18/2013  11:17 AM    <DIR>          uart_low_power_driver
+07/18/2013  11:17 AM    <DIR>          uart_low_power_wu_dut
+06/26/2013  01:34 PM    <DIR>          usb_device
+06/26/2013  01:34 PM    <DIR>          usb_host
+               3 File(s)      3,527,582 bytes
+              17 Dir(s)  97,752,342,528 bytes free
